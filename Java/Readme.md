@@ -40,7 +40,7 @@
 |3|2018-9번문제|[링크](https://github.com/yjo5252/practice-java/blob/master/epper19/epper19_9.java)|9번|
 
 ## Divide And Conquer (10.17-10.23)
-[10.17-10.23 소스코드](practice-java/DivideNConquer.md at master · yjo5252/practice-java)
+[10.17-10.23 소스코드](https://github.com/yjo5252/practice-java/blob/master/Baekjoon/DivideNConquer.md)
 
 ### 1. 쿼드트리
 * [백준 1992번 문제](https://www.acmicpc.net/problem/1992) 

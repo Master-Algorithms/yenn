@@ -39,3 +39,19 @@
 |2|2018-8번문제|[링크](https://github.com/yjo5252/practice-java/blob/master/epper19/epper19_8.java)|8번|
 |3|2018-9번문제|[링크](https://github.com/yjo5252/practice-java/blob/master/epper19/epper19_9.java)|9번|
 
+
+## GREEDY algorithm (10.24-10.30)
+[10.24-10.30 소스코드](practice-java/GreedyAlgorithm.md at master · yjo5252/practice-java)
+
+### 1. 설탕 배달
+* [백준 2839번 문제](https://www.acmicpc.net/problem/2839)
+
+### 2. 최소스패닝트리
+* [백준 1197번 문제](https://www.acmicpc.net/problem/1197)
+* 크루스칼 알고리즘 이용해서 풀이 
+### 3. 잃어버린 괄호
+* [백준 1541번 문제](https://www.acmicpc.net/problem/1541)
+
+### 4. 최단경로 
+* [백준 1753번 문제](https://www.acmicpc.net/problem/1753)
+* 다익스트라 알고리즘 이용해서 풀이 

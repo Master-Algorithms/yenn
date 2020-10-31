@@ -55,7 +55,7 @@
 * [백준 2630번 문제](https://www.acmicpc.net/problem/2630)
 
 ## GREEDY algorithm (10.24-10.30)
-[10.24-10.30 소스코드](practice-java/GreedyAlgorithm.md at master · yjo5252/practice-java)
+[10.24-10.30 소스코드](https://github.com/yjo5252/practice-java/blob/master/Baekjoon/GreedyAlgorithm.md)
 
 ### 1. 설탕 배달
 * [백준 2839번 문제](https://www.acmicpc.net/problem/2839)

@@ -39,6 +39,20 @@
 |2|2018-8번문제|[링크](https://github.com/yjo5252/practice-java/blob/master/epper19/epper19_8.java)|8번|
 |3|2018-9번문제|[링크](https://github.com/yjo5252/practice-java/blob/master/epper19/epper19_9.java)|9번|
 
+## Divide And Conquer (10.17-10.23)
+[10.17-10.23 소스코드](practice-java/DivideNConquer.md at master · yjo5252/practice-java)
+
+### 1. 쿼드트리
+* [백준 1992번 문제](https://www.acmicpc.net/problem/1992) 
+
+### 2. 종이의 개수 
+* [백준 1780번 문제](https://www.acmicpc.net/problem/1780)
+
+### 3. Z 
+* [백준 1074번 문제](https://www.acmicpc.net/problem/1074)
+
+### 4. 색종이 만들기 
+* [백준 2630번 문제](https://www.acmicpc.net/problem/2630)
 
 ## GREEDY algorithm (10.24-10.30)
 [10.24-10.30 소스코드](practice-java/GreedyAlgorithm.md at master · yjo5252/practice-java)
